@@ -4,6 +4,12 @@
     background-color: red;
     position: absolute;
     top: 20px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: green;
+    color:blue;
+    text-align: center;
+    text-transform: uppercase;
   }
   
   .second-box-container {
@@ -13,6 +19,12 @@
     position: absolute;
     left: 250px;
     top: 20px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
   }
   
   .third-box-container {
@@ -22,4 +34,10 @@
     position: absolute;
     left: 490px;
     top: 20px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: yellow;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
   }
