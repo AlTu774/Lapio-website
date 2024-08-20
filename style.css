@@ -1,1 +1,15 @@
-p { background-color: red; }
+* {
+    color: brown;
+  }
+
+li {
+    color: pink;
+}
+
+#punainen {
+    color: red;
+  }
+
+.title {
+    color: blue;
+}
