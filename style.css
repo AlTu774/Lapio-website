@@ -1,3 +1,4 @@
+/*
 * {
     color: brown;
   }
@@ -13,3 +14,36 @@ li {
 .title {
     color: blue;
 }
+*/
+
+#highlight {
+  color: black;
+  text-decoration: underline;
+}
+
+body {
+  color: #343434;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  margin: 0 auto;
+  max-width: 50em;
+  line-height: 1.5;
+  padding: 5em 2em;
+}
+
+h1 {
+  color: #333;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+img {
+  position: absolute;
+  left: 600px;
+  top: 220px;
+  border-style: solid;
+  border-color: black;
+}
+
